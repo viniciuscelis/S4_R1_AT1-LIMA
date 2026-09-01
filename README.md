@@ -25,16 +25,6 @@ A página simula o portal de uma empresa fictícia do ramo de jogos ("nãoROCKST
 - EA Sports FC
 - Call of Duty
 
-## ⚠️ Pontos de atenção
-
-Alguns ajustes recomendados para a versão final do protótipo:
-
-- [ ] O atributo `src` da imagem no `<header>` está vazio — adicionar o logotipo da empresa.
-- [ ] O link de "Call of Duty" está duplicado no `<nav>`.
-- [ ] As seções de **Minecraft** e **Call of Duty** estão sem a tag de fechamento `</article>`.
-- [ ] O atributo `lang` do `<html>` está definido como `en`, mas o conteúdo é em português — trocar para `lang="pt-BR"`.
-- [ ] Adicionar texto alternativo (`alt`) descritivo na imagem do cabeçalho.
-
 ## 🚀 Como executar
 
 1. Clone o repositório ou baixe o arquivo.
